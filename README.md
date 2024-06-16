@@ -1,4 +1,4 @@
-# Bonjour, je suis Lia Glitcheur 👋
+# Bonjour, je suis Liam Quatrevaux 👋
 
 Je suis développeur passionné avec une expérience en Swift, JavaScript et Python. J'aime créer des applications innovantes et des outils utiles. Découvrez mes projets ci-dessous et n'hésitez pas à me contacter pour toute collaboration ou question.
 
